@@ -11,6 +11,8 @@ I was drunk while translating some of this, so if something isn't translated wel
 Some things, especially combat notifications, are hard to understand looking at the raw text, so if somehing looks off, or says something like, got Potions 23! instead of got 23 Potions!, lmk.
 If there is ever a case where something like c[17] shows up, or the text turns black, let me know and I'll fix it
 
+If you see something like [Yuno] at the end of a line, and no name box, please let me know, this is an error caused by the word wrap script
+
 Completed:
 translated the new message and image manuals added in 1.09
 Did all item descriptions
