@@ -1,4 +1,4 @@
-It's can be hard to tell what i should and shouldn't translate, so if i missed anything or something breaks, please let me know. I suspect a lot of movement options are not translated, but I don't know for sure until someone finds them and lets me know. Good rule of thumb, save often at least until a play test can be finished.
+If i missed anything or something breaks, please let me know.
 
 Square brackets "[]" indicate my translator notes if something was hard to translate or uses odd phrasing, or i just wanted to make a comment
 
@@ -12,9 +12,3 @@ Some things, especially combat notifications, are hard to understand looking at 
 If there is ever a case where something like c[17] shows up, or the text turns black, let me know and I'll fix it
 
 If you see something like [Yuno] at the end of a line, and no name box, please let me know, this is an error caused by the word wrap script
-
-Completed:
-translated the new message and image manuals added in 1.09
-Did all item descriptions
-Did common events
-Did maps 0-5
