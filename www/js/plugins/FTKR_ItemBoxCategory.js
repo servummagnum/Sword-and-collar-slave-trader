@@ -119,7 +119,7 @@ FTKR.IBCt = FTKR.IBCt || {};
     FTKR.IBCt = {
         list    :String(parameters['Items Category'] || ''),
         category:{
-            all :String(parameters['Category All Name'] || "all"),
+            all :String(parameters['Category All Name'] || 'すべて'),
             item:String(parameters['Category Item Name'] || ''),
         },
     };
@@ -157,7 +157,7 @@ FTKR.IBCt = FTKR.IBCt || {};
     DataManager.itemCategoryNotetags = function(group) {
         for (var n = 1; n < group.length; n++) {
             var obj = group[n];
-            obj.category = readObjectMeta(obj, ["IBCt_Category", 'IBCt_CATEGORY']);
+            obj.category = readObjectMeta(obj, ['IBCt_カテゴリー', 'IBCt_CATEGORY']);
         }
     };
 

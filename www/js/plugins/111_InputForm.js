@@ -111,7 +111,7 @@
                     this.submit = document.createElement('input');
                     this.submit.setAttribute('type', 'submit');
                     this.submit.setAttribute('id', '_111_submit');
-                    this.submit.setAttribute('value', '決定');
+                    this.submit.setAttribute('value', 'OK');
                     document.body.appendChild(this.submit);
                 } ,
                 success : function(){

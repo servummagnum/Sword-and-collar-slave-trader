@@ -611,14 +611,14 @@ var MPPlugin = {};
         }
     };
 
-    MPPlugin.animeCommons = JSON.parse(parameters['Anime Commons'] || `[]`);
-    MPPlugin.textSet = JSON.parse(parameters['Text Set'] || `[]`);
-    MPPlugin.textInformations = JSON.parse(parameters['Text Informations'] || `{}`, paramRevive);
-    MPPlugin.WaitEffects = JSON.parse(parameters['Wait Effects'] || `[]`, paramRevive);
-    MPPlugin.SkipEffects = JSON.parse(parameters['Skip Effects'] || `[]`, paramRevive);
+    MPPlugin.animeCommons = JSON.parse(parameters['Anime Commons'] || "[]");
+    MPPlugin.textSet = JSON.parse(parameters['Text Set'] || "[]");
+    MPPlugin.textInformations = JSON.parse(parameters['Text Informations'] || "{}", paramRevive);
+    MPPlugin.WaitEffects = JSON.parse(parameters['Wait Effects'] || "[]", paramRevive);
+    MPPlugin.SkipEffects = JSON.parse(parameters['Skip Effects'] || "[]", paramRevive);
 
     // === Char SE ===
-    var charSEs = JSON.parse(parameters['Character SEs'] || `[]`);
+    var charSEs = JSON.parse(parameters['Character SEs'] || "[]");
     for (var i = 0; i < charSEs.length; i++) {
         var se = JSON.parse(charSEs[i]);
         if (se) {
@@ -653,8 +653,8 @@ var MPPlugin = {};
         }
     };
 
-    MPPlugin.nameWindow = JSON.parse(parameters['Name Window'] || `{}`, paramReviveNumber);
-    MPPlugin.faceWindow = JSON.parse(parameters['Face Window'] || `{}`, paramReviveNumber);
+    MPPlugin.nameWindow = JSON.parse(parameters['Name Window'] || "{}", paramReviveNumber);
+    MPPlugin.faceWindow = JSON.parse(parameters['Face Window'] || "{}", paramReviveNumber);
 
     // === Command ===
     MPPlugin.PluginCommands = JSON.parse(parameters['Plugin Commands']);
