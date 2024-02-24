@@ -1,4 +1,4 @@
-//=============================================================================
+﻿//=============================================================================
 // Chronus.js
 // ----------------------------------------------------------------------------
 // (C) 2015 Triacontane
@@ -1462,6 +1462,7 @@ function Window_Chronus() {
     };
 
     Game_Chronus.prototype.getWeekName = function() {
+        this._weekNames = getParamArrayString('曜日配列');  // Make sure Week Names gets updated
         return this._weekNames[this.getWeekIndex()];
     };
 
@@ -1498,7 +1499,7 @@ function Window_Chronus() {
     };
 
     Game_Chronus.prototype.getMinute = function() {
-        return this.isRealTime() ? this._nowDate.getMinutes() : this._timeMeter % 60;
+        return this.isRealTime() ? this._nowDate.getMinutes() : this.getValuePadding(this._timeMeter % 60, 2); // Fix padding for minutes as the game doesn't use format time
     };
 
     Game_Chronus.prototype.getFormatTimeFormula = function() {

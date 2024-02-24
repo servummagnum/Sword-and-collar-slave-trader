@@ -1,4 +1,4 @@
-/*:
+﻿/*:
 -------------------------------------------------------------------------
 @title Follower Event Touch
 @author Hime --> HimeWorks (http://himeworks.com)
