@@ -12,3 +12,5 @@ Some things, especially combat notifications, are hard to understand looking at 
 If there is ever a case where something like c[17] shows up, or the text turns black, let me know and I'll fix it
 
 If you see something like [Yuno] at the end of a line, and no name box, please let me know, this is an error caused by the word wrap script
+
+Since i've taken several breaks while translating this, Some names may be translated inconsistencly, please point such instances out to me so I can fix them
