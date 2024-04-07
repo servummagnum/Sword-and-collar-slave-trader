@@ -6,7 +6,8 @@ The painter sometimes makes explanations in english, and to keep his, extravity,
 
 There may be some inconsistencies that are present in the base game: i.e. some items say heal 250 HP, but actually heal 300. So, if you encounter one of these, please let me know, i did my best to catch them, but one might have sliped through
 
-I was drunk while translating some of this, so if something isn't translated well, let me know and i'll fix it
+I was drunk while translating some of this, so if something isn't translated well, let me know and I'll fix it.
+Similarly, this started off as an MTL, then I later decided to manually translate it. I'm pretty sure I went back and fixed all of the MTL, but there might be sections I missed, so please let me know about any sections you think I left unchanged
 
 Some things, especially combat notifications, are hard to understand looking at the raw text, so if somehing looks off, or says something like, got Potions 23! instead of got 23 Potions!, lmk.
 If there is ever a case where something like c[17] shows up, or the text turns black, let me know and I'll fix it
