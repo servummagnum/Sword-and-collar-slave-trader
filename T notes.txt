@@ -1,0 +1,41 @@
+\nw[\N[2]]
+\n<\N[2]>
+
+\nw[\N[1]]
+\n<\N[2]>
+
+\nw[宿屋の主人]
+\n<Innkeeper>
+
+\nw[農民]
+\n<Farmer>
+
+\nw[外道アーティスト]
+\n<Heretical artist>
+
+Tags:
+GOLD: event name
+RED: comment
+BLUE: plugin
+GREEN: variable
+
+Names:
+The Commerce Guild [News]
+The Arms Dealer Guild
+The Adventurers' Guild <Replace: Adventurer>
+
+Cities:
+Royal Capital of Lau Diesel
+Ranotica [Lanotica]
+Harriet [Harriets]
+
+
+Phrases:
+personal request <Replace: individual request>
+
+Corrections to do:
+guild
+city/town
+
+To Do
+Camel Case items
