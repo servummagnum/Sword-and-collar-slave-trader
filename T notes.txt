@@ -2,7 +2,7 @@
 \n<\N[2]>
 
 \nw[\N[1]]
-\n<\N[2]>
+\n<\N[1]>
 
 \nw[宿屋の主人]
 \n<Innkeeper>
@@ -23,6 +23,7 @@ Names:
 The Commerce Guild [News]
 The Arms Dealer Guild
 The Adventurers' Guild <Replace: Adventurer>
+Ambition of the Ground Painting
 
 Cities:
 Royal Capital of Lau Diesel
