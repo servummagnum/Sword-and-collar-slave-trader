@@ -1,8 +1,8 @@
-\nw[\N[2]]
-\n<\N[2]>
-
 \nw[\N[1]]
 \n<\N[1]>
+
+\nw[\N[2]]
+\n<\N[2]>
 
 \nw[宿屋の主人]
 \n<Innkeeper>
@@ -29,6 +29,7 @@ Cities:
 Royal Capital of Lau Diesel
 Ranotica [Lanotica]
 Harriet [Harriets]
+Coldy
 
 
 Phrases:
