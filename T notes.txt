@@ -13,6 +13,9 @@
 \nw[外道アーティスト]
 \n<Heretical artist>
 
+\nw[司祭]
+\n<Priest>
+
 Tags:
 GOLD: event name
 RED: comment
