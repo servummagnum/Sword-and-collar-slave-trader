@@ -39,7 +39,9 @@ Coldy
 
 
 Phrases:
-personal request <Replace: individual request>
+Personal request <Replace: individual request>
+Trust <Replace: reliability>
+
 
 Corrections to do:
 guild
