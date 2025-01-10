@@ -16,6 +16,9 @@
 \nw[司祭]
 \n<Priest>
 
+\nw[神殿兵]
+\n<Temple Soldier>
+
 Tags:
 GOLD: event name
 RED: comment
