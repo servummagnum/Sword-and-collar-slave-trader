@@ -19,6 +19,9 @@
 \nw[神殿兵]
 \n<Temple Soldier>
 
+\nw[老人]
+\n<Old Man>
+
 Tags:
 GOLD: event name
 RED: comment
@@ -33,10 +36,10 @@ Ambition of the Ground Painting
 
 Cities:
 Royal Capital of Lau Diesel
-Ranotica [Lanotica]
-Harriet [Harriets]
+Ranotica <Lanotica>
+Harriet <Harriets>
 Coldy
-
+Patton(?)
 
 Phrases:
 Personal request <Replace: individual request>
